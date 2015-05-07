@@ -150,6 +150,7 @@
 
 .ui-rangeSlider-bar{
 	background: #68a1d6;
+	opacity: .6;
   height: 29px;
   margin:1px 0;
   -moz-border-radius: 4px;
